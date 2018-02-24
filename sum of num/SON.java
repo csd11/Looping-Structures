@@ -5,7 +5,7 @@ class SON{
 		int sum = 0;
 		int mul = 1;
 		
-		for(int num=1; num<=100; num++){
+		for(int num=3; num<=100; num++){
 			
 			sum = sum + num;
 			mul = mul * num;
